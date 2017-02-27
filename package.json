@@ -1,0 +1,30 @@
+{
+  "name": "query-once",
+  "version": "0.0.1",
+  "description": "Multiple times the same GET request, just query once",
+  "main": "./lib",
+  "scripts": {
+    "test": "node -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgc/query-once.git"
+  },
+  "keywords": [
+    "query",
+    "once",
+    "query-once",
+    "GET",
+    "get",
+    "express"
+  ],
+  "author": "garvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgc/query-once/issues"
+  },
+  "homepage": "https://github.com/lgc/query-once#readme",
+  "dependencies": {
+    "lodash.isequal": "^4.5.0"
+  }
+}
