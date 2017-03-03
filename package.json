@@ -1,6 +1,6 @@
 {
   "name": "query-once",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Multiple times the same GET request, just query once",
   "main": "./lib",
   "scripts": {
