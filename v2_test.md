@@ -2,7 +2,7 @@
 
 ### 1. 用户接口测试
 * [X] **消息接口**(m/v2/user/notify_list) 
-* [ ] **三方登录接口**(m/v2/user/login_social) **剩下gogole twitter**
+* [X] **三方登录接口**(m/v2/user/login_social)
 * [X] **用户信息接口**(m/v2/user/info)
 * [X] **用户退出接口**(m/v2/user/logout)
 
