@@ -16,14 +16,14 @@
 * [X] **开发者CMS**(m/v2/cms/app_developer) 
 * [X] **分类下的appCMS**(m/v2/cms/app_category) 
 * [X] **本应用相似appCMS**(m/v2/cms/app_similar) 
-* [ ] **本应用所有相关appCMS**(m/v2/cms/app_relate) **是否去重复？**
+* [X] **本应用所有相关appCMS**(m/v2/cms/app_relate) **是否去重复？**
 
 ### 3. 更新测试
 * [X] **检查更新接口**(m/v2/check_update) **(只能线上测试)**
 * [X] **检查本地所有应用更新**(m/v2/app/update)  **(只能线上测试)**
 
 ### 4. 保存设备信息测试
-* [ ] **保存设备信息接口**(m/v2/save_device)
+* [X] **保存设备信息接口**(m/v2/save_device)
 
 ### 5. APP详情
 * [X] **APP详情接口**(m/v2/app/detail)
