@@ -1,14 +1,14 @@
 # query-once
 Multiple times the same GET request, just query once
 
-##How to install
+## How to install
 
 	npm i --save query-once
 
-##Usage
+## Usage
 
 
-###server.js
+### server.js
 
 ```javascript
 var express = require('express');
@@ -32,7 +32,7 @@ app.get('/', queryOnce.register(result), function (req, res) {
 
 app.listen(3000);
 ```
-###request.js
+### request.js
 
 ```javascript
 var http = require('http');
